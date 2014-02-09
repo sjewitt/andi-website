@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=windows-1250" />
+  <meta name="generator" content="PSPad editor, www.pspad.com" />
+  <link rel="stylesheet" href="/styles/style2.css" type="text/css" />
+  <script src="/scripts/scripts.js" type="text/javascript"></script>
+  <title>: Model : info@andriannachristofi.co.uk :</title>
+  </head>
+        <!--#include virtual="/include/header.inc" -->        
+        <!--#include virtual="/include/homelink.inc" -->
+
+        <div id="content">
+        <!--#include virtual="/include/contentnav.inc" -->
+        
+            <p>Andrianna was scouted by a well known modeling agency when she was fifteen and it has taken her all over the world. An experienced photographic model, Andrianna has worked with some of the most accomplished fashion 
+            photographers in the business. Her flexible look has been used for both high fashion and catalogues.  She has also modeled for TV, commercial work and catwalk shows.</p>
+
+            
+            <div class="thumb">
+                <a onClick="javascript:showImage('1');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th1.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('2');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th2.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('3');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th3.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('4');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th4.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('5');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th5.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('6');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th6.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('7');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th7.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('8');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th8.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('9');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th9.jpg" alt="" /></a>
+            </div>
+            <br />
+            <div class="thumb">
+                <a onClick="javascript:showImage('10');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th10.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('11');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th11.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('12');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th12.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('13');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th13.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('14');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th14.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('15');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th15.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('16');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th16.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('17');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th17.jpg" alt="" /></a>
+            </div>
+            <div class="thumb">
+                <a onClick="javascript:showImage('18');return false;" href="*" title="" target="_blank"><img class="gallerythumb" src="/images/gallery/th18.jpg" alt="" /></a>
+            </div>
+        </div>
+        
+    <!--#include virtual="/include/footer.inc" -->
+</html>

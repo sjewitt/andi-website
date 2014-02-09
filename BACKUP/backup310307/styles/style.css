@@ -1,0 +1,278 @@
+/* CSS Document */
+
+body
+{
+  border:none;
+  background-color:#88475F;
+  background-image:url("/andi/images/andi_bg_title.jpg");
+  background-repeat:no-repeat;
+  font-family:arial,sans-serif;
+  font-size:1em;
+  color:#D7B38F;
+}
+
+body noimg
+{
+  border:none;
+  background-color:#88475F;
+  font-family:arial,sans-serif;
+  font-size:1em;
+  color:#D7B38F;
+}
+
+a
+{
+    color:#D7B38F;
+    text-decoration:none;
+}
+a:hover
+{
+    text-decoration:underline;
+}
+
+img
+{
+    border:none;
+}
+
+h2
+{
+  font-size:1.4em;
+}
+h3
+{
+  font-size:1.2em;
+}
+h1
+{
+  font-size:1.8em;
+}
+
+#top_bar
+{
+    position:absolute;
+    top:0px;
+    left:15px;
+    width:100%;
+    height:9px;
+    margin:0px;
+    border:none;
+    padding:0px;
+    background-color:#D7B290;
+}
+
+#bottom_bar
+{
+    position:absolute;
+    top:594px;
+    left:15px;
+    width:100%;
+    height:9px;
+    margin:0px;
+    border:none;
+    padding:0px;
+    background-color:#D7B290;
+}
+
+/* on all pages */
+#toolsmenu
+{
+    position:absolute;
+    top:10px;
+    left:360px;
+    width:496px;
+    height:50px;
+}
+
+.graphic_tool1
+{
+    position:absolute;
+    left:0px;
+}
+
+.graphic_tool2
+{
+    position:absolute;
+    left:270px;
+}
+
+#hpmenu
+{
+    position:absolute;
+    top:220px;
+    left:360px;
+    width:496px;
+    height:220px;
+    padding:6px;
+    background-image:url("/andi/images/menu_bg.jpg");
+    background-repeat:no-repeat;
+}
+
+#contentmenu
+{
+    position:absolute;
+    top:220px;
+    left:360px;
+    width:496px;
+    height:50px;
+    padding:0px;
+}
+
+#homelink
+{
+    position:absolute;
+    top:100px;
+    left:200px;
+}
+
+.homelink
+{
+    width:370px;
+    height:120px;
+}
+
+.graphic_head1
+{
+    position:absolute;
+    top:5px;
+    left:6px;
+}
+
+.graphic_head2
+{
+    position:absolute;
+    top:5px;
+    left:129px;
+}
+
+.graphic_head3
+{
+    position:absolute;
+    top:5px;
+    left:254px;
+}
+
+.graphic_head4
+{
+    position:absolute;
+    top:5px;
+    left:377px;
+}
+
+.graphic_link1
+{
+    position:absolute;
+    top:135px;
+    left:0px;
+}
+
+.graphic_link2
+{
+    position:absolute;
+    top:135px;
+    left:122px;
+}
+
+.graphic_link3
+{
+    position:absolute;
+    top:135px;
+    left:244px;
+}
+
+.graphic_link4
+{
+    position:absolute;
+    top:135px;
+    left:369px;
+}
+
+/* layout */
+#container
+{
+  width:980px;
+  border:none;
+}
+
+#top
+{
+  width:980px;
+  height:50px;
+  border:none;
+}
+
+#left
+{
+  float:left;
+  width:200px;
+  border:none;
+}
+
+#centre
+{
+  float:left;
+  width:575px;
+  border:none;
+}
+
+#right
+{
+  float:right;
+  width:200px;
+  border:none;
+}
+
+.content
+{
+  width:100%;
+  padding:5px;
+  border:1px solid black;
+}
+
+/* boxouts */
+.box
+{
+  width:180px;
+  border:1px solid #888;
+  margin-bottom:10px;
+  margin-left:10px;
+  margin-right:10px;
+}
+.box_head
+{
+  background-color:#888;
+  color:#fff;
+  font-weight:bold;
+  text-align:center;
+  min-height:20px;
+}
+.box_body
+{
+  padding:5px;
+}
+
+/* navs */
+.lhnav
+{
+  padding-left:0px;
+}
+
+#content
+{
+    position:absolute;
+    top:270px;
+    left:360px;
+    width:496px;
+}
+
+#homecontent
+{
+    position:absolute;
+    top:400px;
+    left:360px;
+    width:496px;
+}
+.gallerythumb
+{
+    margin-left:5px;
+}
