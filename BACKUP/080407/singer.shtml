@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+  <!--#include virtual="/include/metatext_singer.inc" -->
+  <meta http-equiv="content-type" content="text/html; charset=windows-1250" />
+  <meta name="generator" content="PSPad editor, www.pspad.com" />
+  <link rel="stylesheet" href="/styles/style2.css" type="text/css" />
+  <script src="/scripts/scripts.js" type="text/javascript"></script>
+  <title>Andrianna Christofi : Singer : info@andriannachristofi.co.uk :</title>
+  </head>
+        <!--#include virtual="/include/header.inc" -->        
+        <!--#include virtual="/include/homelink.inc" -->
+        
+        <div id="content">
+            <!--#include virtual="/include/contentnav.inc" -->
+
+            <p>
+            Andrianna has been a professional singer since the age of  twelve when she performed and toured with the English National Opera.  She's enjoyed global stadium tours as a backing singer for international acts including Boyzone, the Spice Girls, Michael Bolton, and Dodgy.  She also writes and performs her own material and has released work with Ministry of Sound, Ramsey and Fen, Truesteppers and Acid Jazz. We've included some song snippets below so you can enjoy her versatile voice first hand.
+            </p>
+            <p>Song Snippets (mp3 format - these open in a new window):</p>
+            <ul>
+                <li><a title="'Til There Was You" href="/mp3/TilThereWasYou.mp3" target="_blank">'Til There Was You</a></li>
+                    <li><a title="Money Maker" href="/mp3/MoneyMaker.mp3" target="_blank">Money Maker</a></li>
+		          <li><a title="Deep Down" href="/mp3/DeepDown.mp3" target="_blank">Deep Down</a></li>
+		          <li><a title="Modesty Blaise" href="/mp3/ModestyBlaise.mp3" target="_blank">Modesty Blaise</a></li>
+            </ul>
+        <p>info@andriannachristofi.co.uk</p></div>
+        
+    <!--#include virtual="/include/footer.inc" -->
+</html>
